@@ -1,5 +1,9 @@
-# Reddit_API_Pipeline
-This repo is a collection of python files with the purpose of collecting info on posts and comments from certain subreddits
-and moving them into a GCP bucket and a MongoDB Atlas cluster.
+# Project Repository
+Hello! This repository consists of a collection of projects that encompass a variety of tasks that have been worked by myself
+in conjunction with my colleagues where applicable.
 
-This data could then be accessed either on a local machine or onto a cluster such as DataBricks to conduct machine learning tasks.
+The Reddit Folder consists of a DAG pipeline for extracting post and comment data from the Reddit API and saving them onto a
+GCP bucket and MongoDB Atlas cluster for the purpose of conducting machine learning goals with Databricks.
+
+The Reports folder includes projects in Experimentation, Time Series and more that were done in collaboration with small groups.
+The work with Time Series also won a competition against 30+ teams.
